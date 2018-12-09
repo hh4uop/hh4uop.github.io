@@ -1,7 +1,7 @@
 # Site settings
 title: Wang Xiaotong
 SEOTitle: Wang XT的博客 | Mr.WANG
-header-img: img/post-bg-desk.jpg
+header-img: img/post-op-刀.jpg
 email: 402011479@qq.com
 description: "First"
 keyword: "WXT，wxt, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/hh4uop/hh4uop.github.io" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-wxt.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
